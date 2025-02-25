@@ -45,6 +45,7 @@ The main objective is to boost Atliq Grands' market share and revenue within the
 ## Repository Contents
 - ` insights`: contians key insights from dashboard  
 - `recommendation`: contains key recommendations from dashboard
-- `data modelling `: star and schema modelling between fact and dimension table 
+- `data modelling `: star and schema modelling between fact and dimension table
+- `presentation`: Power Point presentation of the project
 
 
